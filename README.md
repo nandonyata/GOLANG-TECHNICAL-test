@@ -1,0 +1,1 @@
+# GOLANG-TECHNICAL-test
